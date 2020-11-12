@@ -6,7 +6,7 @@ Mattermost is holding a virtual hackathon December 10 - 14! You can work on anyt
 ## How do I submit my project?
 
 Submit your Hackathon project following these steps:
-1. [Create a new file in `hackathon-submissions` folder](https://github.com/mattermost/mattermost-hackathon-dec2020/new/master/hackathon-submissions). Please use `.md` as the extension of the file.
+1. [Create a new file in `hackathon-submissions` folder](https://github.com/mattermost/mattermost-hackathon-dec2020/new/main/hackathon-submissions). Please use `.md` as the extension of the file.
 2. Name the file `<your-github-username>-<your-submission-name>`. For example, `jasonblais-onedrive-plugin`.
 3. Include either 
  - a link to a repository containing your project (e.g. an integration or plugin), or
