@@ -17,7 +17,7 @@ Submit your Hackathon project following these steps:
 
 1 - Participants who submit a Hackathon project will receive a Mattermost swag bag! More details coming soon.
 
-2 - Don't know what to work on? Check out [top community feature proposals](https://mattermost.uservoice.com/forums/306457-general/filters/top) or [Hackathon ideas spreadsheet](https://docs.google.com/spreadsheets/d/1pNjW34ZMaIut_YCqw-CRshQ3QGppl_0xG7PsdhEGEcg/edit#gid=0) for inspiration.
+2 - Don't know what to work on? Check out [top community feature proposals](https://mattermost.uservoice.com/forums/306457-general/filters/top) or [Hackathon ideas spreadsheet](https://docs.google.com/spreadsheets/d/13pLt4tKNv1po4gST83snoyJIOZLj2A1Uy8c2QhR1z48/edit#gid=0) for inspiration.
 
 3 - The following activities are planned:
 
