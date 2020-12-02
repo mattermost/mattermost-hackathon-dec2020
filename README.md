@@ -21,11 +21,11 @@ Submit your Hackathon project following these steps:
 
 3 - The following activities are planned:
 
-  - (Optional) Dec 3: Hackathon ideation call to discuss hackathon ideas with others, and attract others to work with you if you are looking for a team. There are two different times scheduled to accommodate for different timezones: first at 7:00 San Francisco time (10:00 Toronto time, 16:00 Berlin time) and second at 10:00 San Francisco time (13:00 Toronto time, 19:00 Berlin time).
+  - (Optional) Dec 3: Hackathon ideation call to discuss hackathon ideas with others, and attract others to work with you if you are looking for a team. There are two different times scheduled to accommodate for different timezones: first at 7:00 GMT-8 San Francisco time (10:00 GMT-5 Toronto time, 16:00 GMT+1 Berlin time) and second at 10:00 GMT-8 San Francisco time (13:00 GMT-5 Toronto time, 19:00 GMT+1 Berlin time).
   - (Optional) Dec 10: Hackathon kick-off call. May be pre-recorded or live. More details to come.
   - (Optional) Dec 11: Social activity. More details to come, but two different times to be scheduled to accommodate for different timezones.
   - (Required) Dec 14: Present your hackathon project asynchronously in the [MM hackathon Dec/2020 channel](https://community.mattermost.com/core/channels/mm-hackathon-dec2020). Must include a 3-5 minute video of your project along with a short description.
 
-3 - Hackathon kick-off call takes place on Friday November 22, 8:00 San Francisco time (11:00 Toronto time, 17:00 Berlin time, 01:00 (+1) Tokyo time). We'll end the Hackathon with presentations on Tuesday November 26, 8:00 San Francisco time. Join both calls virtually at https://zoom.us/j/9887460965, available on PC, Mac, Linux, iOS and Android.
+Join all calls virtually at https://zoom.us/j/9887460965, available on PC, Mac, Linux, iOS and Android.
 
 4 - Questions? Feel free to come chat with us in the [MM hackathon Dec/2020 channel](https://community.mattermost.com/core/channels/mm-hackathon-dec2020).
