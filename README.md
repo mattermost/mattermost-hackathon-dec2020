@@ -29,3 +29,8 @@ Submit your Hackathon project following these steps:
 Join all calls virtually at https://zoom.us/j/9887460965, available on PC, Mac, Linux, iOS and Android.
 
 4 - Questions? Feel free to come chat with us in the [MM hackathon Dec/2020 channel](https://community.mattermost.com/core/channels/mm-hackathon-dec2020).
+
+## Swag
+
+Participants will receive our very exclusive and coveted Mattermost snuggie!
+![snuggie](https://i.imgur.com/BrDFvRM.png)
