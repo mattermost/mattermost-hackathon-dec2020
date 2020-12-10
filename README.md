@@ -15,11 +15,13 @@ Submit your Hackathon project following these steps:
 
 ## Things to know
 
-1 - Participants who submit a Hackathon project will receive a Mattermost swag bag! More details coming soon.
+1 - Don't know what to work on? Check out [top community feature proposals](https://mattermost.uservoice.com/forums/306457-general/filters/top) or [Hackathon ideas spreadsheet](https://docs.google.com/spreadsheets/d/13pLt4tKNv1po4gST83snoyJIOZLj2A1Uy8c2QhR1z48/edit#gid=0) for inspiration.
 
-2 - Don't know what to work on? Check out [top community feature proposals](https://mattermost.uservoice.com/forums/306457-general/filters/top) or [Hackathon ideas spreadsheet](https://docs.google.com/spreadsheets/d/13pLt4tKNv1po4gST83snoyJIOZLj2A1Uy8c2QhR1z48/edit#gid=0) for inspiration.
+2 - Looking for someone to work with? Post in the [MM hackathon Dec/2020 channel](https://community.mattermost.com/core/channels/mm-hackathon-dec2020)!
 
-3 - The following activities are planned:
+3 - If you are a Mattermost staff member participating in the hackathon, you can use company work time for your hackathon project, and expense your lunch or dinner for up to $20USD.
+
+4 - The following activities are planned:
 
   - (Optional) Dec 3: Hackathon ideation call to discuss hackathon ideas with others, and attract others to work with you if you are looking for a team. There are two different times scheduled to accommodate for different timezones: first at 7:00 GMT-8 San Francisco time (10:00 GMT-5 Toronto time, 16:00 GMT+1 Berlin time) and second at 10:00 GMT-8 San Francisco time (13:00 GMT-5 Toronto time, 19:00 GMT+1 Berlin time).
   - (Optional) Dec 10: Hackathon kick-off call. Again, two different times scheduled to accommodate for different timezones: first at 7:00 GMT-8 San Francisco time (10:00 GMT-5 Toronto time, 16:00 GMT+1 Berlin time) and second at 10:00 GMT-8 San Francisco time (13:00 GMT-5 Toronto time, 19:00 GMT+1 Berlin time).
@@ -28,9 +30,9 @@ Submit your Hackathon project following these steps:
 
 Join all calls virtually at https://zoom.us/j/9887460965, available on PC, Mac, Linux, iOS and Android.
 
-4 - Questions? Feel free to come chat with us in the [MM hackathon Dec/2020 channel](https://community.mattermost.com/core/channels/mm-hackathon-dec2020).
+5 - Questions? Feel free to come chat with us in the [MM hackathon Dec/2020 channel](https://community.mattermost.com/core/channels/mm-hackathon-dec2020).
 
 ## Swag
 
-Participants will receive our very exclusive and coveted Mattermost snuggie!
+Participants who submit a Hackathon project will receive Mattermost our very exclusive and coveted Mattermost snuggie!
 ![snuggie](https://i.imgur.com/BrDFvRM.png)
